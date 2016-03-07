@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverTracker", "DriverTracker\DriverTracker.csproj", "{762F0BC4-88B9-4E74-9969-8B5E1477C29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverTracker.Droid", "Droid\DriverTracker.Droid.csproj", "{8474B3A2-46C1-447B-8856-EA2898B55D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{762F0BC4-88B9-4E74-9969-8B5E1477C29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762F0BC4-88B9-4E74-9969-8B5E1477C29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762F0BC4-88B9-4E74-9969-8B5E1477C29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762F0BC4-88B9-4E74-9969-8B5E1477C29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8474B3A2-46C1-447B-8856-EA2898B55D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8474B3A2-46C1-447B-8856-EA2898B55D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8474B3A2-46C1-447B-8856-EA2898B55D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8474B3A2-46C1-447B-8856-EA2898B55D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
